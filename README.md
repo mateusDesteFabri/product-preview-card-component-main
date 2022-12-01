@@ -67,8 +67,8 @@ I need to learn more about how to create layouts using Flexbox and Grid. Respons
 
 ## Author
 
-Mateus Destefani Fabri<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-destefani-fabri-44b205232/)<br>
+Mateus Destefani Fabri<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mateus-destefani-fabri-44b205232/)<br><br>
 [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-blue?style=flat&logo=frontendmentor&labelColor=3F54A3&color=3F54A3)](https://www.frontendmentor.io/profile/mateusDesteFabri)
 
 ## Acknowledgments
