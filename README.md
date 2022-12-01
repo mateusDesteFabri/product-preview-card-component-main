@@ -6,19 +6,17 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+First of all, sorry about my English, this isn't my first language.
 
 ### The challenge
 
@@ -27,7 +25,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Screenshots
 
 #### Mobile version
 
@@ -63,7 +61,7 @@ I made this project by following Kevin Powell's tutorial. Making it I learned:
 
 ### Continued development
 
-I need to learn more about how to create layouts using Flexbox and Grid. Responsiveness, media queries, how to organize the code to make it clean, reusable and maintainable are also some of my aims.
+More about how to create layouts using Flexbox and Grid. Responsiveness, media queries, how to organize the code to make it clean, reusable and maintainable are also some of my aims.
 
 ## Author
 
@@ -73,6 +71,4 @@ Mateus Destefani Fabri<br><br>
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+My solution was built based on [Kevin Powell's](https://www.youtube.com/@KevinPowell) tutorial. His detailed and clear explanation helped and taught me a lot.
