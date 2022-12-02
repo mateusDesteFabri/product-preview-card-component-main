@@ -7,6 +7,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -34,6 +35,11 @@ Users should be able to:
 #### Desktop version
 
 ![Desktop version screenshot](screenshots/screenshot-desktop.png)
+
+### Links
+
+- [Solution](https://github.com/mateusDesteFabri/product-preview-card-component-main)
+- [Live version](https://ubiquitous-gelato-f0cae9.netlify.app/)
 
 ## My process
 
