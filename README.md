@@ -17,8 +17,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-First of all, sorry about my English, this isn't my first language.
-
 ### The challenge
 
 Users should be able to:
@@ -38,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/mateusDesteFabri/product-preview-card-component-main)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-using-css-grid-bHW0957dMW)
 - [Live version](https://ubiquitous-gelato-f0cae9.netlify.app/)
 
 ## My process
